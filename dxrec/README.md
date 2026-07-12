@@ -30,4 +30,4 @@ DirectX の利用には [DirectX ランタイム](https://www.microsoft.com/down
 
 ---
 本ソフトウェアは無保証です。自己責任でご利用ください。
-(C) 2001-2021 HDBENCH.NET
+(C) 2001-2026 HDBENCH.NET
