@@ -1,6 +1,6 @@
 # LANDE-RD
 
-**種別**: フリーソフト
+**種別 / Type**: フリーソフト / Freeware
 
 ## 概要
 東芝製 HDD＆DVDレコーダー用の **ネットダビング仮想HDD** です（RD-Z1 で動作確認）。
@@ -18,5 +18,19 @@ LANDE-RD を起動し、東芝製HDD＆DVDレコーダー側から「ネット�
 [Releases](https://github.com/HDBENCH/software/releases) からZIPをダウンロードしてください。
 
 ---
-本ソフトウェアは無保証です。自己責任でご利用ください。
+
+## Overview (English)
+A **virtual HDD for network dubbing** with Toshiba HDD&DVD recorders (verified on RD-Z1).
+Launch LANDE-RD, then choose "Network" on the Toshiba recorder to dub.
+
+**Features**
+- Supports **RD → PC** dubbing (PC → RD is possible only for files previously dubbed RD → PC)
+- On RD-Z1, changing `auto_cmd=0` to `auto_cmd=1` in `REMOTE.INI` opens the network-device selection screen automatically (other models may work by editing `cmd_00...`)
+- **Auto power-off after transfer** (both PC and RD). Enabling power-off on the RD during an RD→PC transfer also shuts down the PC
+
+**Supported OS:** Windows 2000 / XP / Vista
+**Download:** Get the ZIP from [Releases](https://github.com/HDBENCH/software/releases).
+
+---
+本ソフトウェアは無保証です。自己責任でご利用ください。 / Provided without warranty. Use at your own risk.
 (C) 2001-2026 HDBENCH.NET

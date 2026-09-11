@@ -1,6 +1,6 @@
 # DxRec2
 
-**種別**: シェアウェア（販売終了）
+**種別 / Type**: シェアウェア（販売終了）/ Shareware (discontinued)
 
 ## 概要
 DirectX / OpenGL を利用したゲーム等に、**フレームレート表示・スクリーンショット保存・AVI動画録画** 機能を追加するソフトウェアです。DxRec（初代）の後継として、速度と機能を大幅に強化しています。
@@ -24,5 +24,24 @@ DirectX / OpenGL を利用したゲーム等に、**フレームレート表示�
 [Releases](https://github.com/HDBENCH/software/releases) からZIPをダウンロードしてください。
 
 ---
-本ソフトウェアは無保証です。自己責任でご利用ください。
+
+## Overview (English)
+Adds **FPS overlay, screenshot capture, and AVI video recording** to games and apps that use DirectX / OpenGL. As the successor to the original DxRec, it is greatly improved in both speed and features.
+
+**Features**
+- Newly developed for maximum speed; drops font-based drawing and adds an SSE-optimized build
+- Multi-core aware (distributes capture work across up to quad-core CPUs)
+- Full support for 64-bit applications and games
+- Automatic frame skipping to keep memory usage low
+- Screenshots in BMP / JPEG / GIF / PNG / TIFF (simultaneous save and resizing supported)
+- Reference-based AVI saving enables recordings several hours long
+- Fast recording by reading directly from the video card buffer; hardware scaling on DirectX 8/9
+- Audio stream capture on Windows Vista (5.1ch surround, and audio from USB speakers/headphones)
+- Recorded AVI files play back in Windows Media Player
+
+**Supported APIs:** DirectX 1 / 2 / 3 / 5 / 6 / 7 / 8 / 9 / 10, OpenGL
+**Download:** Get the ZIP from [Releases](https://github.com/HDBENCH/software/releases).
+
+---
+本ソフトウェアは無保証です。自己責任でご利用ください。 / Provided without warranty. Use at your own risk.
 (C) 2001-2026 HDBENCH.NET

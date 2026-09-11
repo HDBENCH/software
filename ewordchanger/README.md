@@ -1,6 +1,6 @@
 # E-WordChanger 2000
 
-**種別**: シェアウェア（販売終了）
+**種別 / Type**: シェアウェア（販売終了）/ Shareware (discontinued)
 
 ## 概要
 英語版アプリケーションのメニューやダイアログ内の文字列を **日本語に変換** するソフトウェアです。
@@ -20,5 +20,20 @@
 > 後継として **[E-WordChanger 2005](../other/)**（開発停止）もあります。
 
 ---
-本ソフトウェアは無保証です。自己責任でご利用ください。
+
+## Overview (English)
+Software that **translates the menus and dialog strings of English applications into Japanese**.
+
+**Features**
+- Enables Japanese display even for English apps that normally can't show Japanese, by changing fonts
+- Can partly fix clipped text that results from translation
+- By preparing a per-application dictionary, almost all items can be translated
+- Dictionaries can be created yourself; Japanese-to-English translation is also supported
+
+**Supported OS:** Windows 98 / 2000 / XP (95 / NT4.0 unverified)
+**Download:** Get the ZIP from [Releases](https://github.com/HDBENCH/software/releases).
+See also the successor **[E-WordChanger 2005](../other/)** (development stopped).
+
+---
+本ソフトウェアは無保証です。自己責任でご利用ください。 / Provided without warranty. Use at your own risk.
 (C) 2001-2026 HDBENCH.NET

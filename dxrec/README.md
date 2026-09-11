@@ -1,8 +1,9 @@
 # DxRec
 
-**種別**: シェアウェア（販売終了）
+**種別 / Type**: シェアウェア（販売終了）/ Shareware (discontinued)
 
 > 後継の **[DxRec2](../dxrec2/)** の公開に伴い、DxRec（初代）のサポートは終了しています。新規に使う場合は DxRec2 を推奨します。
+> The original DxRec is no longer supported now that **[DxRec2](../dxrec2/)** is available. For new use, DxRec2 is recommended.
 
 ## 概要
 DirectX / OpenGL を利用したアプリケーション（ゲーム等）に、**フレームレート表示・ベンチマーク機能** を追加します。スクリーンショット保存、AVI動画録画機能もあります。
@@ -29,5 +30,21 @@ DirectX / OpenGL を利用したアプリケーション（ゲーム等）に、
 DirectX の利用には [DirectX ランタイム](https://www.microsoft.com/download/details.aspx?id=35) のインストールが必要です。
 
 ---
-本ソフトウェアは無保証です。自己責任でご利用ください。
+
+## Overview (English)
+Adds **an FPS overlay and benchmark features** to DirectX / OpenGL applications (such as games), plus screenshot capture and AVI video recording.
+
+**Features**
+- Automatically injects capture processing so FPS display and recording become available
+- Reference-based AVI saving for recordings several hours long
+- Fast recording read directly from the video card buffer (hardware scaling on DirectX 8/9)
+- Audio stream capture on Windows Vista (5.1ch surround, audio from USB outputs)
+- Recorded AVI files play back in Windows Media Player
+
+**Supported APIs:** DirectX 1 / 2 / 3 / 5 / 6 / 7 / 8 / 9 / 10, OpenGL
+**Supported OS:** Windows 2000 SP4+ / XP SP2+ / XP x64 (Wow64) / Vista x86 / Vista x64 (Wow64). Windows 9x is not supported.
+**Download:** Get the ZIP from [Releases](https://github.com/HDBENCH/software/releases). The [DirectX runtime](https://www.microsoft.com/download/details.aspx?id=35) is required.
+
+---
+本ソフトウェアは無保証です。自己責任でご利用ください。 / Provided without warranty. Use at your own risk.
 (C) 2001-2026 HDBENCH.NET
