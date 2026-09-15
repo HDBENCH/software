@@ -11,6 +11,7 @@ Windows / iOS / Android / Chrome 向けのソフトウェアを公開してい�
 |--------|------|------|--------|
 | **Motroxia** | iOS / Android | 車両のOBD2ポートに接続して各種情報をモニタリングする車載モニターアプリ | [App Store](https://apps.apple.com/app/motroxia/id6803079954) / [Google Play](https://play.google.com/store/apps/details?id=net.hdbench.motroxia) |
 | **E-DnsProxyService** | Windows | 任意のDNSリクエストを許可／拒否できるDNSプロキシサービス | [GitHub](https://github.com/HDBENCH/E-DnsProxyService) |
+| **ADSExplorer** | Windows | NTFSの代替データストリーム（ADS）をエクスプローラーで表示・削除できるシェル拡張 | [GitHub](https://github.com/HDBENCH/ADSExplorer) |
 | **KTMouseGestures** | Chrome拡張 | Google Chrome用のシンプルなマウスジェスチャー拡張 | [Chromeウェブストア](https://chromewebstore.google.com/detail/kt-mouse-gestures/gfimipfmbiohbdjmbmmljponpjmhhokl) / [GitHub](https://github.com/HDBENCH/KTMouseGestures) |
 
 ## ベンチマーク
@@ -51,6 +52,7 @@ classic apps can be downloaded from this repository's **[Releases](https://githu
 |-----|----------|-------------|------|
 | **Motroxia** | iOS / Android | A car monitor app that reads vehicle data through the OBD2 port | [App Store](https://apps.apple.com/app/motroxia/id6803079954) / [Google Play](https://play.google.com/store/apps/details?id=net.hdbench.motroxia) |
 | **E-DnsProxyService** | Windows | A DNS proxy service that lets you allow or reject any DNS request | [GitHub](https://github.com/HDBENCH/E-DnsProxyService) |
+| **ADSExplorer** | Windows | A shell extension that shows and deletes NTFS Alternate Data Streams (ADS) in Windows Explorer | [GitHub](https://github.com/HDBENCH/ADSExplorer) |
 | **KTMouseGestures** | Chrome ext. | A simple mouse gesture extension for Google Chrome | [Chrome Web Store](https://chromewebstore.google.com/detail/kt-mouse-gestures/gfimipfmbiohbdjmbmmljponpjmhhokl) / [GitHub](https://github.com/HDBENCH/KTMouseGestures) |
 
 ## Benchmarks
