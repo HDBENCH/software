@@ -9,6 +9,7 @@ Windows / iOS / Android / Chrome 向けのソフトウェアを公開してい�
 ## 現行アプリ
 | アプリ | 対応 | 概要 | 配布先 |
 |--------|------|------|--------|
+| **DxCamRec** | Windows | ネットワークカメラ（RTSP/ONVIF）の映像と音声を再圧縮せずに録画し続けるソフト。映像表示、ONVIFイベントのメール通知、録画の自動削除 | [GitHub](https://github.com/HDBENCH/DxCamRec) |
 | **Motroxia** | iOS / Android | 車両のOBD2ポートに接続して各種情報をモニタリングする車載モニターアプリ | [App Store](https://apps.apple.com/app/motroxia/id6803079954) / [Google Play](https://play.google.com/store/apps/details?id=net.hdbench.motroxia) |
 | **E-DnsProxyService** | Windows | 任意のDNSリクエストを許可／拒否できるDNSプロキシサービス | [GitHub](https://github.com/HDBENCH/E-DnsProxyService) |
 | **ADSExplorer** | Windows | NTFSの代替データストリーム（ADS）をエクスプローラーで表示・削除できるシェル拡張 | [GitHub](https://github.com/HDBENCH/ADSExplorer) |
@@ -50,6 +51,7 @@ classic apps can be downloaded from this repository's **[Releases](https://githu
 ## Current apps
 | App | Platform | Description | Link |
 |-----|----------|-------------|------|
+| **DxCamRec** | Windows | Records RTSP / ONVIF network cameras around the clock without re-encoding; live view, mail notification for ONVIF events, automatic cleanup | [GitHub](https://github.com/HDBENCH/DxCamRec) |
 | **Motroxia** | iOS / Android | A car monitor app that reads vehicle data through the OBD2 port | [App Store](https://apps.apple.com/app/motroxia/id6803079954) / [Google Play](https://play.google.com/store/apps/details?id=net.hdbench.motroxia) |
 | **E-DnsProxyService** | Windows | A DNS proxy service that lets you allow or reject any DNS request | [GitHub](https://github.com/HDBENCH/E-DnsProxyService) |
 | **ADSExplorer** | Windows | A shell extension that shows and deletes NTFS Alternate Data Streams (ADS) in Windows Explorer | [GitHub](https://github.com/HDBENCH/ADSExplorer) |
